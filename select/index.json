@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さんきゅー！",
+  "base_artist": "Peel the Apple",
+  "createdAt": "2025-12-12T15:48:37.802116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さんきゅー!",
+      "artist": "Peel the Apple",
+      "has_synced": false,
+      "path": "select/pl_01_さんきゅー!_Peel_the_Apple.txt"
+    }
+  ]
+}
